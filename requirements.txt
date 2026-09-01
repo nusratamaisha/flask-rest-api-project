@@ -1,0 +1,13 @@
+flask
+flask-smorest
+python-dotenv
+sqlalchemy
+flask-sqlalchemy
+flask-jwt-extended  
+passlib
+flask_migrate
+gunicorn
+psycopg2-binary
+requests
+rq
+redis
